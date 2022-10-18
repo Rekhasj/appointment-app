@@ -1,0 +1,39 @@
+/* Write your CSS here */
+
+.app-list-container {
+  border: 1px solid #9897f0;
+  border-radius: 5px;
+  height: 60px;
+  width: 200px;
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.cont {
+  display: flex;
+  justify-content: space-between;
+}
+.star {
+  border: none;
+  height: 20px;
+  width: 20px;
+}
+.heading {
+  font-size: 20px;
+}
+.appointment-heading {
+  font-size: 20px;
+}
+
+.title {
+  font-size: 15px;
+  color: #171f46;
+}
+.date {
+  font-size: 12px;
+  color: #8b5cf6;
+}
+.star-button {
+  padding: none;
+  margin: none;
+}
